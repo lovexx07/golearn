@@ -27,3 +27,28 @@ go 语音自学
   source ~/.bash_profile 使设置马上生效
   go env 就可以查看是否配置成功
   ******** 
+ 第二节
+  import (
+  	"flag"  接收参数的包
+  	"fmt"
+  )
+  
+  var a int
+  
+  func init() {
+  	flag.IntVar(&a, "a", 123, "输入数字")
+  }
+  
+  func main() {
+  	flag.Parse()    解析命令参数，必须有这步
+  	fmt.Println("hello world ", a)
+  }
+  go 语言的 输入命令
+  
+  第三节
+  同一包下面的文件应该声明为 同一个package 名字，不然无法编译通过
+  调用时可以go run demo4.go demo4_lib.go -name=jack 来调用，这里的方法可以是小写
+  
+  
+
+  
