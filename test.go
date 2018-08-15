@@ -1,7 +1,17 @@
 package main
 
-import "fmt"
+import (
+	"flag"
+	"fmt"
+)
+
+var a int
+
+func init() {
+	flag.IntVar(&a, "a", 123, "输入数字")
+}
 
 func main() {
-	fmt.Println("hello world")
+	flag.Parse()
+	fmt.Println("hello world ", a)
 }
