@@ -5,6 +5,7 @@ import "fmt"
 //普通数字是值类型，传递的是副本
 func modifyArray(a [3]string) [3]string {
 	a[1] = "X"
+	fmt.Printf("指针1:%p\n", &a)
 	return a
 }
 
@@ -26,6 +27,7 @@ func main() {
 	array2 := modifyArray(array1)
 	fmt.Printf("The array: %v\n", array2)
 	fmt.Printf("The array: %v\n", array1)
+	fmt.Printf("指针2：%p\n", &array2)
 	fmt.Println()
 
 	slice1 := []string{"x", "y", "z"}
