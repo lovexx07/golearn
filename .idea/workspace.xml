@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b174bcd-3873-4984-983b-295a11907303" name="Default" comment="Gopath &#10;   函数操作 数组为值类型，不会影响元数据&#10;   切片操作会引起元数据变动">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/golearn/test16/q0/demo38.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/golearn/test16/q1/demo39.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/itgeek" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mm-wiki" afterDir="false" />
+    <list default="true" id="6b174bcd-3873-4984-983b-295a11907303" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/golearn/test17/q0/demo41.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/golearn/test17/q1/demo42.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/golearn/test17/q2/demo43.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golearn/test16/q1/demo39.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golearn/test16/q1/demo39.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" afterDir="false" />
     </list>
     <ignored path="src/itgeek/" />
     <ignored path="src/mm-wiki/" />
@@ -34,35 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo38.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/golearn/test16/q0/demo38.go">
+      <file leaf-file-name="demo42.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/golearn/test17/q1/demo42.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-end-line="15" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo39.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/golearn/test16/q1/demo39.go">
+      <file leaf-file-name="demo43.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/golearn/test17/q2/demo43.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="e#14#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo40.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/golearn/test16/q2/demo40.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#14#46#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -118,8 +100,11 @@
         <option value="$PROJECT_DIR$/src/golearn/test15/q1/demo36.go" />
         <option value="$PROJECT_DIR$/src/golearn/test15/q2/demo37.go" />
         <option value="$PROJECT_DIR$/src/golearn/test16/q0/demo38.go" />
-        <option value="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" />
         <option value="$PROJECT_DIR$/src/golearn/test16/q1/demo39.go" />
+        <option value="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" />
+        <option value="$PROJECT_DIR$/src/golearn/test17/q0/demo41.go" />
+        <option value="$PROJECT_DIR$/src/golearn/test17/q1/demo42.go" />
+        <option value="$PROJECT_DIR$/src/golearn/test17/q2/demo43.go" />
       </list>
     </option>
   </component>
@@ -149,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -174,22 +160,14 @@
               <item name="golearn_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="golearn" type="462c0819:PsiDirectoryNode" />
-              <item name="test16" type="462c0819:PsiDirectoryNode" />
+              <item name="test17" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golearn_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="golearn_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="golearn" type="462c0819:PsiDirectoryNode" />
-              <item name="test16" type="462c0819:PsiDirectoryNode" />
-              <item name="q0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="golearn_workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="golearn_workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="golearn" type="462c0819:PsiDirectoryNode" />
-              <item name="test16" type="462c0819:PsiDirectoryNode" />
+              <item name="test17" type="462c0819:PsiDirectoryNode" />
               <item name="q1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -197,7 +175,7 @@
               <item name="golearn_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="golearn" type="462c0819:PsiDirectoryNode" />
-              <item name="test16" type="462c0819:PsiDirectoryNode" />
+              <item name="test17" type="462c0819:PsiDirectoryNode" />
               <item name="q2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -219,7 +197,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,33 +235,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build demo39.go">
+  <component name="RunManager" selected="Go Build.go build demo43.go">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="go build demo36.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golearn_workspace" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/golearn/test15/q1/demo36.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build demo37.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golearn_workspace" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/golearn/test15/q2/demo37.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build demo38.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golearn_workspace" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/golearn/test16/q0/demo38.go" />
-      <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build demo39.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golearn_workspace" />
@@ -300,6 +253,30 @@
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo41.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golearn_workspace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/golearn/test17/q0/demo41.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo42.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golearn_workspace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/golearn/test17/q1/demo42.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo43.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golearn_workspace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/golearn/test17/q2/demo43.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -341,19 +318,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build demo36.go" />
-      <item itemvalue="Go Build.go build demo37.go" />
-      <item itemvalue="Go Build.go build demo38.go" />
       <item itemvalue="Go Build.go build demo39.go" />
       <item itemvalue="Go Build.go build demo40.go" />
+      <item itemvalue="Go Build.go build demo41.go" />
+      <item itemvalue="Go Build.go build demo42.go" />
+      <item itemvalue="Go Build.go build demo43.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build demo39.go" />
+        <item itemvalue="Go Build.go build demo43.go" />
+        <item itemvalue="Go Build.go build demo42.go" />
+        <item itemvalue="Go Build.go build demo41.go" />
         <item itemvalue="Go Build.go build demo40.go" />
-        <item itemvalue="Go Build.go build demo38.go" />
-        <item itemvalue="Go Build.go build demo37.go" />
-        <item itemvalue="Go Build.go build demo36.go" />
+        <item itemvalue="Go Build.go build demo39.go" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +367,8 @@
       <workItem from="1536760066641" duration="2628000" />
       <workItem from="1536789808947" duration="4293000" />
       <workItem from="1536875682699" duration="3221000" />
-      <workItem from="1537222725951" duration="1989000" />
+      <workItem from="1537222725951" duration="2020000" />
+      <workItem from="1537481236780" duration="3538000" />
     </task>
     <task id="LOCAL-00001" summary="Gopath 等环境配置">
       <created>1534161591907</created>
@@ -483,11 +461,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536879433206</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Gopath &#10;   goruntlin执行逻辑">
+      <created>1537225019364</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537225019365</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44620000" />
+    <option name="totallyTimeSpent" value="48189000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -506,7 +491,7 @@
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2374798" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24071082" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -544,55 +529,10 @@
     <MESSAGE value="Gopath &#10;   函数操作 数组为值类型，不会影响元数据&#10;   切片操作会引起元数据变动" />
     <MESSAGE value="Gopath &#10;   接口 鸭子方法  iface数据结构" />
     <MESSAGE value="Gopath &#10;   指针操作一" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gopath &#10;   指针操作一" />
+    <MESSAGE value="Gopath &#10;   goruntlin执行逻辑" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gopath &#10;   goruntlin执行逻辑" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/go/src/cmd/go/main.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2652" />
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/sort/example_keys_test.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-852" />
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/go/src/sort/genzfunc.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/db/geek.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4758" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/doc/web.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/doc/admin.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/doc/h5.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/gk/gknote/base.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/gk/gknote/WebNote.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/gk/gknote/WebNoteCategory.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/ui/admin/base/home.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/ui/admin/base/login.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-747">
-          <caret line="40" column="11" lean-forward="true" selection-start-line="40" selection-start-column="11" selection-end-line="40" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/itgeek/ui/admin/base/upUserPass.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-552" />
@@ -656,15 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/golearn/test2/demo3.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-176" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/golearn/test2/test.go">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/golearn/test3/q1/demo4.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/golearn/test3/q1/demo4_lib.go">
@@ -674,16 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
           <caret line="31" column="64" lean-forward="true" selection-start-line="31" selection-start-column="64" selection-end-line="31" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/小白go语音学习笔记.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="825">
-            <caret line="55" column="93" selection-start-line="55" selection-start-column="93" selection-end-line="55" selection-end-column="93" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -747,36 +669,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
           <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="e#14#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/golearn/test16/q0/demo38.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test16/q1/demo39.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="98" selection-start-line="9" selection-start-column="98" selection-end-line="9" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/sync/atomic/doc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/golearn/test16/q2/demo40.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="343">
+          <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
           <folding>
             <element signature="e#14#46#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/golearn/test16/q1/demo39.go">
+    <entry file="file://$PROJECT_DIR$/q2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/小白go语音学习笔记.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="270">
+            <caret line="55" column="93" selection-start-line="55" selection-start-column="93" selection-end-line="55" selection-end-column="93" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test17/q0/demo41.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#14#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="166">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test2/demo3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test3/q1/demo4.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test3/q2/demo5.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test4/q1/demo7.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test4/q2/demo8.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test4/q3/demo9.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test5/q1/demo10.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test5/q2/demo11.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test5/q3/demo11.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test17/q1/demo42.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test17/q2/demo43.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
         </state>
       </provider>
     </entry>
