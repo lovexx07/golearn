@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b174bcd-3873-4984-983b-295a11907303" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/golearn/test17/q0/demo41.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/golearn/test17/q1/demo42.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/golearn/test17/q2/demo43.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/golearn/test18/q0/demo44.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/golearn/test18/q1/demo45.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/golearn/test18/q2/demo46.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/golearn/test16/q1/demo39.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golearn/test16/q1/demo39.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" afterDir="false" />
     </list>
     <ignored path="src/itgeek/" />
     <ignored path="src/mm-wiki/" />
@@ -31,20 +29,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="demo42.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/golearn/test17/q1/demo42.go">
+      <file leaf-file-name="demo46.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/golearn/test18/q2/demo46.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="350">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="e#14#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="demo43.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/golearn/test17/q2/demo43.go">
+      <file leaf-file-name="demo45.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/golearn/test18/q1/demo45.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+            <state relative-caret-position="240">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="9" selection-end-line="21" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -105,6 +106,9 @@
         <option value="$PROJECT_DIR$/src/golearn/test17/q0/demo41.go" />
         <option value="$PROJECT_DIR$/src/golearn/test17/q1/demo42.go" />
         <option value="$PROJECT_DIR$/src/golearn/test17/q2/demo43.go" />
+        <option value="$PROJECT_DIR$/src/golearn/test18/q0/demo44.go" />
+        <option value="$PROJECT_DIR$/src/golearn/test18/q1/demo45.go" />
+        <option value="$PROJECT_DIR$/src/golearn/test18/q2/demo46.go" />
       </list>
     </option>
   </component>
@@ -134,9 +138,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,14 +164,22 @@
               <item name="golearn_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="golearn" type="462c0819:PsiDirectoryNode" />
-              <item name="test17" type="462c0819:PsiDirectoryNode" />
+              <item name="test18" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="golearn_workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="golearn_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="golearn" type="462c0819:PsiDirectoryNode" />
-              <item name="test17" type="462c0819:PsiDirectoryNode" />
+              <item name="test18" type="462c0819:PsiDirectoryNode" />
+              <item name="q0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="golearn_workspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="golearn_workspace" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="golearn" type="462c0819:PsiDirectoryNode" />
+              <item name="test18" type="462c0819:PsiDirectoryNode" />
               <item name="q1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -175,7 +187,7 @@
               <item name="golearn_workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="golearn" type="462c0819:PsiDirectoryNode" />
-              <item name="test17" type="462c0819:PsiDirectoryNode" />
+              <item name="test18" type="462c0819:PsiDirectoryNode" />
               <item name="q2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -235,33 +247,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build demo43.go">
+  <component name="RunManager" selected="Go Build.go build demo46.go">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="go build demo39.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golearn_workspace" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/golearn/test16/q1/demo39.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build demo40.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golearn_workspace" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/golearn/test16/q2/demo40.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build demo41.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="golearn_workspace" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/golearn/test17/q0/demo41.go" />
-      <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build demo42.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="golearn_workspace" />
@@ -277,6 +265,30 @@
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/src/golearn/test17/q2/demo43.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo44.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golearn_workspace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/golearn/test18/q0/demo44.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo45.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golearn_workspace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/golearn/test18/q1/demo45.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build demo46.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="golearn_workspace" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/golearn/test18/q2/demo46.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -318,19 +330,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build demo39.go" />
-      <item itemvalue="Go Build.go build demo40.go" />
-      <item itemvalue="Go Build.go build demo41.go" />
       <item itemvalue="Go Build.go build demo42.go" />
       <item itemvalue="Go Build.go build demo43.go" />
+      <item itemvalue="Go Build.go build demo44.go" />
+      <item itemvalue="Go Build.go build demo45.go" />
+      <item itemvalue="Go Build.go build demo46.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build demo46.go" />
+        <item itemvalue="Go Build.go build demo45.go" />
+        <item itemvalue="Go Build.go build demo44.go" />
         <item itemvalue="Go Build.go build demo43.go" />
         <item itemvalue="Go Build.go build demo42.go" />
-        <item itemvalue="Go Build.go build demo41.go" />
-        <item itemvalue="Go Build.go build demo40.go" />
-        <item itemvalue="Go Build.go build demo39.go" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +380,8 @@
       <workItem from="1536789808947" duration="4293000" />
       <workItem from="1536875682699" duration="3221000" />
       <workItem from="1537222725951" duration="2020000" />
-      <workItem from="1537481236780" duration="3538000" />
+      <workItem from="1537481236780" duration="3588000" />
+      <workItem from="1537740129443" duration="2970000" />
     </task>
     <task id="LOCAL-00001" summary="Gopath 等环境配置">
       <created>1534161591907</created>
@@ -468,11 +481,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537225019365</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Gopath &#10;   goruntlin执行逻辑完全解析&#10;   switch  if语句特性">
+      <created>1537485292756</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537485292756</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48189000" />
+    <option name="totallyTimeSpent" value="51209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -491,7 +511,7 @@
       <window_info anchor="right" id="Flutter Outline" order="3" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24071082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24474959" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -530,20 +550,10 @@
     <MESSAGE value="Gopath &#10;   接口 鸭子方法  iface数据结构" />
     <MESSAGE value="Gopath &#10;   指针操作一" />
     <MESSAGE value="Gopath &#10;   goruntlin执行逻辑" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gopath &#10;   goruntlin执行逻辑" />
+    <MESSAGE value="Gopath &#10;   goruntlin执行逻辑完全解析&#10;   switch  if语句特性" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gopath &#10;   goruntlin执行逻辑完全解析&#10;   switch  if语句特性" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/itgeek/ui/admin/base/upUserPass.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-552" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/ui/admin/zx/ele-html.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/itgeek/build.cmd">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mm-wiki/app/controllers/author.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -697,9 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="31" column="59" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
-          <folding>
-            <element signature="e#14#46#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,7 +766,7 @@
     <entry file="file://$PROJECT_DIR$/src/golearn/test17/q1/demo42.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-end-line="15" selection-end-column="1" />
+          <caret line="15" column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -767,6 +774,33 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test18/q0/demo44.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test18/q1/demo45.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="9" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/golearn/test18/q2/demo46.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#14#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
