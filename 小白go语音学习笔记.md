@@ -66,4 +66,21 @@ go 语音自学
   多个defer 执行顺序，按照编译好的顺序从后往前执行
   
   
+  go test golearn/test20/q1  进行功能测试
+  
+  go test -bench=. -run=^$ golearn/test20/q2 性能测试
+    -bench=.  只有加了这个标记，命令才会进行性能测试。表示需要执行任意名称的性能测试函数  正则
+    -run^$ 表示执行哪些功能测试函数，这里表示不执行任何功能测试函数  正则
+    
+    goos: darwin
+    goarch: amd64
+    pkg: golearn/test20/q2
+    BenchmarkGetPrimes-4      300000              4277 ns/op
+    # 可以同时运行goruntine逻辑cpu数     简称该值为执行次数       单次执行GetPrimes函数的平均耗时
+    PASS
+    ok      golearn/test20/q2       1.338s
+
+    //                       count：在不同情况下执行次数  cpu：设置不同cpu（ 1， 2， 3， 4。。。）
+    go test -bench=. -run=^$  -count=2  -cpu=2,4  golearn/test21/q0
+
   
