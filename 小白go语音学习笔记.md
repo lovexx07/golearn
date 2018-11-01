@@ -82,5 +82,7 @@ go 语音自学
 
     //                       count：在不同情况下执行次数  cpu：设置不同cpu（ 1， 2， 3， 4。。。）
     go test -bench=. -run=^$  -count=2  -cpu=2,4  golearn/test21/q0
+    
+  .(string)  语法： 判断与赋值的结合
 
   
